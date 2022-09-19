@@ -1,6 +1,6 @@
 ### About me
 
-- :brain: I am a [Computational Cognitive Neuroscientist](https://www.rug.nl/research/portal/publications/the-electrophysiology-of-language-comprehension(32f172dc-8ee5-42bf-a91f-c2406398c019).html) with over a decade of research experience;
+- :brain: I am a computational [Cognitive Neuroscientist](https://www.rug.nl/research/portal/publications/the-electrophysiology-of-language-comprehension(32f172dc-8ee5-42bf-a91f-c2406398c019).html) with over a decade of research experience;
 - :male_detective: I am a Principal Investigator in [SFB1102](https://sfb1102.uni-saarland.de/) on Information Density and Linguistic Encoding (IDeaL);
 - :books: For my publications, see [Google Scholar](https://scholar.google.com/) and [ResearchGate](https://www.researchgate.net/);
 - :desktop_computer: Find out more about me on my [personal website](http://www.hbrouwer.eu/);
