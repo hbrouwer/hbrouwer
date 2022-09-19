@@ -1,16 +1,15 @@
-### Hi there 👋
+### About me
 
-<!--
-**hbrouwer/hbrouwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :brain: I am a [Computational Cognitive Neuroscientist](https://www.rug.nl/research/portal/publications/the-electrophysiology-of-language-comprehension(32f172dc-8ee5-42bf-a91f-c2406398c019).html) with over a decade of research experience;
+- :male_detective: I am a Principal Investigator in [SFB1102](https://sfb1102.uni-saarland.de/) on Information Density and Linguistic Encoding (IDeaL);
+- :books: For my publications, see [Google Scholar](https://scholar.google.com/) and [ResearchGate](https://www.researchgate.net/);
+- :desktop_computer: Find out more about me on my [personal website](http://www.hbrouwer.eu/);
+- :envelope: You can reach me at: [me-at-hbrouwer.eu](mailto:me-at-hbrouwer.eu).
 
-Here are some ideas to get you started:
+### Selected software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Mesh](https://github.com/hbrouwer/mesh): A lightweight and versatile artificial neural network simulator.
+* [DFS-Tools](http://github.com/hbrouwer/dfs-tools): Distributional Formal Semantics (DFS) tools.
+* [dispace](http://github.com/hbrouwer/dispace): Implementation of the Distributed Situation-state Space (DSS) model.
+* [PDRT-SANDBOX](http://hbrouwer.github.io/pdrt-sandbox/): A Haskell library implementing (Projective) Discourse Representation Theory.
+* [COALS](http://github.com/hbrouwer/coals): Implementation of the Correlated Occurrence Analogue to Lexical Semantics.
