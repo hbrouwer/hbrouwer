@@ -1,7 +1,8 @@
 ### About me
 
 - :brain: I am a computational [Cognitive Neuroscientist](https://www.rug.nl/research/portal/publications/the-electrophysiology-of-language-comprehension(32f172dc-8ee5-42bf-a91f-c2406398c019).html) studying language comprehension;
-- :male_detective: I am a Principal Investigator in [SFB1102](https://sfb1102.uni-saarland.de/) on Information Density and Linguistic Encoding (IDeaL);
+- :man_scientist: I am an Associate Professor in [Cognitive Science and Artificial Intelligence](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/);
+- :male_detective: I am an Principal Investigator in [SFB1102](https://sfb1102.uni-saarland.de/) on Information Density and Linguistic Encoding (IDeaL);
 - :books: For my publications, see [Google Scholar](https://scholar.google.com/citations?user=NtJ_vCwAAAAJ&hl=en&oi=ao) and [ResearchGate](http://www.researchgate.net/profile/Harm_Brouwer/);
 - :desktop_computer: Find out more about me on my [personal website](http://www.hbrouwer.eu/);
 - :envelope: You can reach me at: [me-at-hbrouwer.eu](mailto:me-at-hbrouwer.eu).
