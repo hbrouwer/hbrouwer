@@ -9,6 +9,7 @@
 
 ### Selected software
 
+* [rerps](https://github.com/hbrouwer/rerps): regression-based ERP waveform estimation.
 * [Mesh](https://github.com/hbrouwer/mesh): A lightweight and versatile artificial neural network simulator.
 * [DFS-Tools](http://github.com/hbrouwer/dfs-tools): Distributional Formal Semantics (DFS) tools.
 * [dispace](http://github.com/hbrouwer/dispace): Implementation of the Distributed Situation-state Space (DSS) model.
